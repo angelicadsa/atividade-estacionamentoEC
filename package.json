@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "angel": "gcc main.c -o main.exe && .exe"
+    "angel": "gcc main.c -o main.exe && main.exe"
   }
 }
