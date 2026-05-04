@@ -63,7 +63,7 @@ O sistema aplica:
 
 ### Necessário ter instalado:
 
-1. **GCC** (compilador C) – [Download MinGW (Windows)](http://www.mingw.org/) ou use WSL/Linux.  
+1. **GCC** (compilador C) – [Download MinGW (Windows)](http://www.mingw.org/) .  
 2. **Node.js** (opcional, apenas para usar o atalho `npm run start` no Windows).  
 
 ### Método 1 – Direto com GCC (qualquer sistema)
