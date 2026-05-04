@@ -3,14 +3,14 @@
 
 **Disciplina:** Laboratório de Programação  
 **Estudante:** Angelica da silva alves <br>
-**Matrícula:** [20250067604] <br>
+**Matrícula:** 20250067604 <br>
 **Curso:** Bacharel em Ciencias e Tecnologia  – UFMA   
 
 ---
 
 ## Descrição do Problema
 
-Programa que calcula o valor a pagar em um estacionamento.  
+Programa que calcula o valor a pagar em um estacionamento com multa e descontos e além disso nosso estacionamento é seguro eih ^-" 
 O usuário informa:  
 - Placa do veículo  
 - Tipo (1-Carro, 2-Moto, 3-Caminhonete)  
