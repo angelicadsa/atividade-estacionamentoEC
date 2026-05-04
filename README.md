@@ -11,6 +11,7 @@
 ## Descrição do Problema
 
 Programa que calcula o valor a pagar em um estacionamento com multa e descontos e além disso nosso estacionamento é seguro eih ^-" 
+<br>
 O usuário informa:  
 - Placa do veículo  
 - Tipo (1-Carro, 2-Moto, 3-Caminhonete)  
