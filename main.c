@@ -2,19 +2,19 @@
 #include <string.h>
 
 int main() {
-    // Declaração de variáveis
+    // Declaração das variáveis
     char placa[10];
     int tipoVeiculo;
     float horas, valorHora, valorBase, desconto = 0, multa = 0, valorFinal;
     char nomeTipo[15];
 
-    printf("============= SISTEMA DE ESTACIONAMENTO =============\n");
+    printf(" SISTEMA DE ESTACIONAMENTO \n");
 
     // Entrada de Dados
     printf("Digite a placa do veiculo: ");
     scanf("%s", placa);
 
-    printf("Selecione o tipo de veiculo:\n");
+    printf("Qual o seu tipo de veiculo:\n");
     printf("1 - Carro (R$ 5.00/h)\n");
     printf("2 - Moto (R$ 3.00/h)\n");
     printf("3 - Caminhonete (R$ 8.00/h)\n");
@@ -24,7 +24,7 @@ int main() {
     printf("Digite o tempo de permanencia (em horas): ");
     scanf("%f", &horas);
 
-    // Processamento: Definição do valor base via Switch-Case
+    //  Definição do valor base via Switch-Case
     switch (tipoVeiculo) {
         case 1:
             valorHora = 5.00;
@@ -64,9 +64,9 @@ int main() {
     valorFinal = valorBase - desconto + multa;
 
     // Saída de Dados (Recibo)
-    printf("\n--------------------------------------------------\n");
-    printf("                RECIBO DE PAGAMENTO               \n");
-    printf("--------------------------------------------------\n");
+    printf("\n-------------------------------------------\n");
+    printf("           RECIBO DE PAGAMENTO               \n");
+    printf("---------------------------------------------\n");
     printf("Placa:            %s\n", placa);
     printf("Veiculo:          %s\n", nomeTipo);
     printf("Permanencia:      %.2f horas\n", horas);
