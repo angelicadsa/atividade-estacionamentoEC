@@ -2,8 +2,8 @@
 # Sistema de Estacionamento Rotativo
 
 **Disciplina:** Laboratório de Programação  
-**Estudante:** Angelica da silva alves
-**Matrícula:** [20250067604]
+**Estudante:** Angelica da silva alves <br>
+**Matrícula:** [20250067604] <br>
 **Curso:** Bacharel em Ciencias e Tecnologia  – UFMA   
 
 ---
