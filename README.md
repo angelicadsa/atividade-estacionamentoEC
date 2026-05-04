@@ -20,8 +20,8 @@ O sistema aplica:
 - Valor por hora: Carro R$5, Moto R$3, Caminhonete R$8  
 - Até 1h → cobra 1 hora (valor mínimo)  
 - Acima de 5h → desconto de 10%  
-- Acima de 10h → multa de R$20  
-
+- Acima de 10h → multa de R$20  <br> 
+- ATENÇÃO: Ao passar de 10 horas vai cobrar a multa e os adcionar os 10%
 ---
 
 ## Modelagem
