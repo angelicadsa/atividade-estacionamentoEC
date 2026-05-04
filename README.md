@@ -21,7 +21,7 @@ O sistema aplica:
 - Até 1h → cobra 1 hora (valor mínimo)  
 - Acima de 5h → desconto de 10%  
 - Acima de 10h → multa de R$20  <br> 
-- ATENÇÃO: Ao passar de 10 horas vai cobrar a multa e os adcionar os 10%
+- ATENÇÃO: Ao passar de 10 horas vai cobrar a multa e adcionar os 10%
 ---
 
 ## Modelagem
